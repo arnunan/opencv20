@@ -1,0 +1,5 @@
+﻿  Part6.cpp
+F:\Project\Freelansim_ru\OpenCV\PartsOpenCV\Part6\Part6.cpp(165,40): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+F:\Project\Freelansim_ru\OpenCV\PartsOpenCV\Part6\Part6.cpp(165,34): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+F:\Project\Freelansim_ru\OpenCV\PartsOpenCV\Part6\Part6.cpp(165,47): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  Part6.vcxproj -> F:\Project\Freelansim_ru\OpenCV\PartsOpenCV\Debug\Part6.exe

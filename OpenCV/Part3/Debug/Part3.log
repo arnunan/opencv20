@@ -1,0 +1,4 @@
+﻿  Part3.cpp
+F:\Project\Freelansim_ru\OpenCV\PartsOpenCV\Part3\Part3.cpp(24,18): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+F:\Project\Freelansim_ru\OpenCV\PartsOpenCV\Part3\Part3.cpp(25,18): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+  Part3.vcxproj -> F:\Project\Freelansim_ru\OpenCV\PartsOpenCV\Debug\Part3.exe
